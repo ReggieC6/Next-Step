@@ -81,7 +81,42 @@
         <a href="https://www.youtube.com/watch?v=086uhG3Rf3U" class="btn btn-outline-neutral btn-round"
         target="_blank"
         ><i class="fa fa-play"></i>Watch video</a>
-        <button type="button" class="btn btn-outline-neutral btn-round">sign up</button>
+        <!--Start signup button-->
+        <button type="button" class="btn btn-outline-neutral btn-round" onclick="document.getElementById('id02').style.display='block' " >sign up</button>
+        <div id="id02" class="modal">
+          <form class="modal-content animate" action="/action_page.php">
+            <div class="imgcontainer">
+              <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">&times;</span>
+              
+            </div>
+        
+            <div class="containerLogin">
+                <h1 class="align-center">Sign Up</h1>
+              <label for="uname"><b>Username</b></label>
+              <input type="text" placeholder="Enter Username" name="uname" required>
+
+              <label for="email"><b>Email</b></label>
+              <input type="text" placeholder="Enter Email" name="email" required>
+        
+              <label for="psw"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" required>
+
+              <label for="confirm-psw"><b>Confirm Password</b></label>
+              <input type="password" placeholder="Enter Password Again" name="confirm-psw" required>
+                
+              <button type="submit ">Register Now</button>
+              <label>
+                <input type="checkbox" checked="checked" name="remember"> Remember me
+              </label>
+            </div>
+        
+            <div class="containerLogin" style="background-color:#f1f1f1">
+              <button type="button" onclick="document.getElementById('id02').style.display='none'" class="cancelbtn">Cancel</button>
+              <span class="psw">Forgot <a href="#">password?</a></span>
+            </div>
+          </form>
+        </div>
+        <!--End Signup Button-->
         <!-- <button type="button" class="btn btn-outline-neutral btn-round">login</button> -->
         <!--Login Button-->
         <button class="btn btn-outline-neutral btn-round" onclick="document.getElementById('id01').style.display='block'" >Login</button>
@@ -93,6 +128,7 @@
                                   </div>
                               
                                   <div class="containerLogin">
+                                    <h1 class="align-center">Login</h1>
                                     <label for="uname"><b>Username</b></label>
                                     <input type="text" placeholder="Enter Username" name="uname" required>
                               
