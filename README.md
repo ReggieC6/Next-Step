@@ -5,7 +5,8 @@
 <a href="https://reggiec6.github.io/Next-Step/">Next Step Website</a>
 
 <hr/>
-<h2><strong>Open Source Project.</strong></h2>
+<h2>INTRODUCTION</h2>
+<p><strong>Open Source Project.</strong></p>
 
 <p></p>
 
