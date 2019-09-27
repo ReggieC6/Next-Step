@@ -4,7 +4,9 @@
 
 Landing Page : https://reggiec6.github.io/Next-Step/
 <hr/>
-<strong>This is open source project.</strong>
+<h2><strong>Open Source Project.</strong></h2>
+
+<p></p>
 
 <h2>Teams:</h2>
 <ul>
