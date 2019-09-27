@@ -1,4 +1,7 @@
 # Next-Step(WIP): 
+
+<p><img alt="Image" title="icon" src="https://lifedemonstration.com/wp-content/uploads/2017/09/next-step.png" /></p>
+
 Landing Page : https://reggiec6.github.io/Next-Step/
 <hr/>
 <strong>This is open source project.</strong>
