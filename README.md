@@ -2,7 +2,8 @@
 
 <p><img alt="Next Step Logo" title="Next-Step" src="https://lifedemonstration.com/wp-content/uploads/2017/09/next-step.png" /></p>
 
-Landing Page : https://reggiec6.github.io/Next-Step/
+<a href="https://reggiec6.github.io/Next-Step/">Next Step website</a>
+
 <hr/>
 <h2><strong>Open Source Project.</strong></h2>
 
