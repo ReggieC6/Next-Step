@@ -14,7 +14,7 @@ Landing Page : https://reggiec6.github.io/Next-Step/
 <li>Graphics designer: Bonson </li>
 <li>Graphics designer: Eric</li>
 <li>Programer Leader: Thanh</li>
-<li>Visual Leader: Guil</li>
+<li>Visual Leader: Guilherme</li>
 <li>Graphics designer: Antonguilio</li>
 <li>Programer: Reginal</li>
 <li>Programer: Brian</li>
