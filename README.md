@@ -1,7 +1,7 @@
 # Next-Step(WIP): 
 Landing Page : https://reggiec6.github.io/Next-Step/
 <hr/>
------This is open source project.-----
+<strong>This is open source project.</strong>
 
 <h2>Teams:</h2>
 <ul>
