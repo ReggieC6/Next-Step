@@ -5,12 +5,12 @@
 <a href="https://reggiec6.github.io/Next-Step/">Next Step Website</a>
 
 <hr/>
-<h2>INTRODUCTION</h2>
+<h2>INTRODUCTION:</h2>
 <p><strong>Open Source Project.</strong></p>
 
 <p>Next Step is an application for students to show the world their achievements in an elegant and concise way.</p>
 
-## How to Use
+## How to Use:
 Well, right now, you can't.
 Sorry.
 =======
