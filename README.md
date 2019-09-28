@@ -1,3 +1,4 @@
+
 # Next-Step(WIP): 
 
 <p><img alt="Next Step Logo" title="Next-Step" src="https://lifedemonstration.com/wp-content/uploads/2017/09/next-step.png" /></p>
@@ -13,8 +14,6 @@
 ## How to Use:
 Well, right now, you can't.
 Sorry.
-=======
-
 
 <h2>Teams:</h2>
 <ul>
@@ -27,3 +26,4 @@ Sorry.
 <li>Programer: Reginal</li>
 <li>Programer: Brian</li>
 </ul>
+

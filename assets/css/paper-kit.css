@@ -60,6 +60,10 @@
   width: 100px !important;
 }
 
+.navbar-expand-lg {
+	background-color: #000000;
+}
+
 .bootstrap-switch .bootstrap-switch-handle-on,
 .bootstrap-switch .bootstrap-switch-handle-off,
 .bootstrap-switch .bootstrap-switch-label {
@@ -3065,7 +3069,7 @@ textarea {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: "Montserrat", "Helvetica", Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 1000;
 }
 
 h1,
@@ -3183,7 +3187,7 @@ h3 .small {
 .footer-big h4 a,
 .media .media-heading,
 .media .media-heading a {
-  color: #333333;
+  color: #eeeeee;
   text-decoration: none;
 }
 
@@ -3192,7 +3196,7 @@ h3 .small {
 }
 
 .description {
-  color: #9A9A9A;
+  color: #cccccc;
 }
 
 blockquote small {
@@ -4467,7 +4471,7 @@ License - nucleoapp.com/license/
   transition: all 0.4s;
   -webkit-transition: all 0.4s;
   padding: 0;
-  background: #FFFFFF;
+  background: #000000;
   box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
 }
 
@@ -5860,7 +5864,7 @@ License - nucleoapp.com/license/
 }
 
 .footer {
-  background-color: #FFFFFF;
+  background-color: #000000;
   line-height: 36px;
 }
 
@@ -6902,7 +6906,7 @@ License - nucleoapp.com/license/
 .section {
   padding: 70px 0;
   position: relative;
-  background-color: #FFFFFF;
+  background-color: #000000;
 }
 
 .section-with-space {
@@ -8187,6 +8191,16 @@ License - nucleoapp.com/license/
 /*# sourceMappingURL=kit-free.css.map */
 
 
+a.btn, button {
+	min-width: 15em
+}
+
+div.description p {
+	min-height: 6em;
+	max-height: 6em;
+	overflow-y: hidden;
+
+
 /* CSS For Login Button */
 .loginbox{
   box-align: center;
@@ -8353,4 +8367,5 @@ input[type=text], input[type=password] {
 
 .carousel-caption{
  z-index: 2;
+
 }
