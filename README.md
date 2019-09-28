@@ -7,9 +7,14 @@
 <hr/>
 <h2>INTRODUCTION</h2>
 <p><strong>Open Source Project.</strong></p>
-<p></p>
 
-<p></p>
+<p>Next Step is an application for students to show the world their achievements in an elegant and concise way.</p>
+
+## How to Use
+Well, right now, you can't.
+Sorry.
+=======
+
 
 <h2>Teams:</h2>
 <ul>
