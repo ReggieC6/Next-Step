@@ -1,7 +1,8 @@
 
 # Next-Step(WIP): 
-
+<div align="center">
 <p><img alt="Next Step Logo" title="Next-Step" src="https://lifedemonstration.com/wp-content/uploads/2017/09/next-step.png" /></p>
+</div>
 
 <a href="https://reggiec6.github.io/Next-Step/">Next Step Website</a>
 
